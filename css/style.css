@@ -29,63 +29,48 @@ img {
 	vertical-align: top;
 }
 
-
-
 /*ОСНОВНІЕ СТИЛИ*/
 
-
-
-a{
-	color:rgb(184, 184, 8);
+a {
+	color: rgb(184, 184, 8);
 }
 
-p.intro-text{
-	color:blue;
+p.intro-text {
+	color: blue;
 }
 
-div p{
+div p {
 	color: #000;
 }
-ol>li{
+ol > li {
 	color: orange;
 }
 
-ul.menu-list>li>a{
-	color:rgb(228, 91, 109);
+ul.menu-list > li > a {
+	color: rgb(228, 91, 109);
 }
 
-
-h1{
-	color:darkturquoise;
+h1 {
+	color: darkturquoise;
 }
-h2{
+h2 {
 	color: rgb(101, 136, 41);
 }
-h3{
+h3 {
 	color: rgb(198, 34, 231);
 }
-h4{
-color: red;
-}
-
-
-.menu-link>{
-	color: darkorange;
+h4 {
+	color: red;
 }
 
 .submenu-link {
 	color: lightgreen;
 }
 
-div p.final-text{
-	color:green;
+div p.final-text {
+	color: green;
 }
 
-a.up{color:red;
+a.up {
+	color: red;
 }
-
-
-
-
-
-
