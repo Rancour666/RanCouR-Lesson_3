@@ -42,6 +42,19 @@ p.intro-text {
 div p {
 	color: #000;
 }
+
+span{
+	color: grey;
+}
+
+p span{
+	color: brown;
+}
+
+.menu-link span{
+	color:lightseagreen;
+}
+
 ol > li {
 	color: orange;
 }
